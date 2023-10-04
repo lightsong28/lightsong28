@@ -1,25 +1,32 @@
-<center>가운데</center></br>
-- 가운데 정렬이 안됨
+# Hello! I'm Nam HoJae(NJ🐻)
+ Thank you for visiting my github. I'm Korean guy live in Seoul.<br>
+ My interest is Environmental Protection🌏 like recycling♻️, purification⚗️, electric cars🚗 and so on.<br>
+ I really fall in love with programming that I can easily access and make my vision more bigger than before.<br>
+ I have learned data analysis with python for 2 years. I'm still a beginner but keep going forward.<br>
+ Share and learn is my pleasure😍😍
 
-\***********************************</br> 
-- 움직이는 이미지를 만들고 싶은데 가능할까?
-- 프로필 수정후
-- 양 이미지를 올릴 예정
+E-mail : lightsong28@naver.com
 
-이미지를 넣는게 나은가 아니면 그냥 이름을 넣는것이 맞는가
+B.S. Electronics and Electrical Engineering at Sungkyunkwan University
 
-이미지로 거주지, 나이, 스펙 등 첨부
+### Things I code with
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-- 파이썬 이미지
-- 나중에 언어 추가되면 넣기
-
-- 대표 프로젝트 표시(링크도 가능하면)
-
-<!-- 주석처리 -->
-
-코드입력
 ~~~
-conda activate prj
+namhojae = []
+
+Gender = namhojae.append('Male')
+Age = namhojae.append(26)
+Country = namhojae.append('Seoul(Korea)')
+Hobby = namhojae.append('running')
+Major = namhojae.append('Electronics and Electrical Engineering')
+Interest = namhojae.append('Environmental Projection')
+Code = namhojae.append('Python Data Analysis')
+
+NJ = namhojae
+~~~
+
+~~~
+NJ = ['Male',26,'Seoul(Korea)','running','Electronics and Electrical Engineering',
+'Environmental Projection','Python Data Analysis']
 ~~~
