@@ -12,7 +12,7 @@ B.S. Electronics and Electrical Engineering at Sungkyunkwan University
 ### Things I code with
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-~~~
+~~~python
 namhojae = []
 
 Gender = namhojae.append('Male')
@@ -26,7 +26,7 @@ Code = namhojae.append('Python Data Analysis')
 NJ = namhojae
 ~~~
 
-~~~
+~~~python
 NJ = ['Male',26,'Seoul(Korea)','running','Electronics and Electrical Engineering',
 'Environmental Projection','Python Data Analysis']
 ~~~
