@@ -3,7 +3,7 @@
  My interest is Environmental Protection🌏 like recycling♻️, purification⚗️, electric cars🚗 and so on.<br>
  I really fall in love with programming that I can easily access and make my vision more bigger than before.<br>
  I have learned data analysis with python for 2 years. I'm still a beginner but keep going forward.<br>
- Share and learn is my pleasure😍😍
+ Share and learn is my pleasure!!
 
 E-mail : lightsong28@naver.com
 
